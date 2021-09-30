@@ -1,0 +1,6 @@
+the solution to stage 5 :
+whan trying to run the file from the vitrtual mechine an opps poped up
+I looked at the information the oops presented,
+searched for EIP to get the location of the file, 
+used the addr2line utility to discover in what line was the problem 
+the line that caused the oops is line 15
