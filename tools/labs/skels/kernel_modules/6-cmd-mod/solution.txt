@@ -1,0 +1,2 @@
+the solution to stage 6:
+insmod cmd_mod.ko str="tired"
